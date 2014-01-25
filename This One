@@ -1,0 +1,13 @@
+//Welcome To This Repository
+
+<index> file.consoleRequest "Name."
+if<Name. = (Name.).lng> >> 5
+  alert "WHAT THE FUCK DID YOU DO?"
+  
+else
+  alert "WHY THE FUCK DID YOU CHOOSE THIS, YOU COONT."
+  
+else
+  requestService <IP.XMAlog1200> console.logic
+    open.requestService <IP.XMAlog1200> to console.logic
+  requestService <CloseIP> console.logic personel=XXM.pca7216
